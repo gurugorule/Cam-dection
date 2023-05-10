@@ -1,2 +1,16 @@
-# Top-Secret
+# Don't Run the Code!!
+Ehh Okay first install OpenCV
+```
+pip install opencv-python
+```
+then run all the Fucking Files and see Magic 
+req :
+      YOU NEED FUCKING WEBCAM!! AND BRAIN 
+      
+```
+python Hand.py
+python Face.py
+python Body.py
+python Motion.py
+```
 ****-****
