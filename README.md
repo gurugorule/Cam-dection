@@ -12,4 +12,9 @@ python Face.py
 python Body.py
 python Motion.py
 ```
-
+### or 
+- make run.sh executable `chmod +x run.sh` and run the file
+*Note you need to make some changes accourding to your OS and $PATH* 
+```console
+./run.sh
+``` 
